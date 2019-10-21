@@ -5,7 +5,7 @@ Wanderlust is an application that displays top attractions for a specified city 
 <br>
 _____
 
-### **Instructions for Playing**
+### **Instructions for Using App**
 * Open app by visiting URL hosted in GitHub
 * Type in the name of any major city and press the 'submit' button
 * Use the returned information to explore the city you are visiting!
